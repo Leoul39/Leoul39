@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Leoul Teferi</h1>
 
 
-🎓 I'm a passionate **Engineering Student** with a deep curiosity for **Machine Learning (ML)** and **Artificial Intelligence (AI)**.  
+🎓 I'm a passionate **Computer Engineering Student** with a deep curiosity for **Machine Learning (ML)** and **Artificial Intelligence (AI)**.  
 
 📊 I enjoy exploring data, building predictive models, and turning raw numbers into meaningful insights.  
 
